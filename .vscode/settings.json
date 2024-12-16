@@ -1,0 +1,6 @@
+{
+    "workbench.editor.customLabels.enabled": true,
+    "workbench.editor.autoLockGroups": {
+        "workbench.editor.chatSession": true
+    }
+}
